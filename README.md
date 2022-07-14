@@ -24,7 +24,7 @@ We provide our shadow-removal results from [GoogleDrive](https://drive.google.co
 
 You can also evaluate the pretrained models. Place images in `./input` directory and run the below script.
 
-Before executing the script, please download the pretrained model from [GoogleDrive](https://drive.google.com/drive/folders/14cPEJMYSUFTLB4yaZ2jWJpx8kFre80oH?usp=sharing), place the models to `./pretrained/`. 
+Before executing the script, please download the pretrained model from [GoogleDrive](https://drive.google.com/drive/folders/14cPEJMYSUFTLB4yaZ2jWJpx8kFre80oH?usp=sharing), place the models to `./pretrained`. 
 
 ```bash
 python test.py
