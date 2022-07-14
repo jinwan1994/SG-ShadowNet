@@ -22,7 +22,7 @@ SRD  (please email the [authors](http://vision.sia.cn/our%20team/JiandongTian/Ji
 ### 3. Evaluate the Pre-trained Models
 We provide our shadow-removal results from [GoogleDrive](https://drive.google.com/drive/folders/1BtvVDRUe7HARGyJAwXf8CSVMbFKjBxDI?usp=sharing) generated on the ISTD+, SRD, and Video Shadow Removal benchmark dataset.
 
-You can also evaluate the pretrained models. Place images in `./input` directory and run the below script.
+You can also evaluate the pretrained models. Place images and testing mask ([ISTD](https://github.com/hhqweasd/G2R-ShadowNet) and [SRD](https://github.com/vinthony/ghost-free-shadow-removal))  in `./input` directory and run the below script.
 
 Before executing the script, please download the pretrained model from [GoogleDrive](https://drive.google.com/drive/folders/14cPEJMYSUFTLB4yaZ2jWJpx8kFre80oH?usp=sharing), place the models to `./pretrained`. 
 
