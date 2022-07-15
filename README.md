@@ -47,6 +47,5 @@ python train.py
 Thanks [Zhihao Liu](https://github.com/hhqweasd) for his useful discussion of this work.
 
 Thanks to previous open-sourced repo: 
-[G2R-ShadowNet](https://github.com/hhqweasd/G2R-ShadowNet), [RainNet](https://github.com/junleen/RainNet)
-
+[G2R-ShadowNet](https://github.com/hhqweasd/G2R-ShadowNet)
 
