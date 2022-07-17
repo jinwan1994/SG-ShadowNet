@@ -14,7 +14,7 @@ conda install --yes --file requirements.txt
 ### 2. Datasets
 [ISTD+](https://www3.cs.stonybrook.edu/~cvl/projects/SID/index.html)
 
-SRD  (please email the [authors](http://vision.sia.cn/our%20team/JiandongTian/JiandongTian.html)).
+SRD  (please email the [authors](http://www.shengfenghe.com/publications/)).
 
 [Video Shadow Removal (version 1)](https://www3.cs.stonybrook.edu/~cvl/projects/FSS2SR/index.html)
 
