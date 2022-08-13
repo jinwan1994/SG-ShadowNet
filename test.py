@@ -91,3 +91,4 @@ for idx, img_name in enumerate(gt_list):
         io.imsave(save_path,outputimage)
 
         print('Generated images %04d of %04d' % (idx+1, len(gt_list)))
+        print("Done.")
