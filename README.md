@@ -1,6 +1,6 @@
 # SG-ShadowNet
 
-#### PyTorch implementation of “Style-Guided Shadow Removal”, [ ECCV2022 ]( https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790353.pdf/ ).
+#### PyTorch implementation of “Style-Guided Shadow Removal”, [ ECCV2022 ]( https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790353.pdf ).
 
 ### Intruduction:
 #### Abstract
