@@ -49,3 +49,10 @@ Thanks [Zhihao Liu](https://github.com/hhqweasd) for his useful discussion of th
 Thanks to previous open-sourced repo: 
 [G2R-ShadowNet](https://github.com/hhqweasd/G2R-ShadowNet)
 
+@inproceedings{wan2022style,
+  title={Style-Guided Shadow Removal},
+  author={Wan, Jin and Yin, Hui and Wu, Zhenyao and Wu, Xinyi and Liu, Yanting and Wang, Song},
+  booktitle={ECCV},
+  year={2022}
+}
+
